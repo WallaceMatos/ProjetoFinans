@@ -16,3 +16,21 @@ Linguagens utilizadas: HTML, CSS e BOOTSTRAP.
 ![finans2](https://user-images.githubusercontent.com/75341726/115126350-d14efe00-9fa4-11eb-9c1b-73384eb00ab4.png)
 
 ![finans3](https://user-images.githubusercontent.com/75341726/115126363-de6bed00-9fa4-11eb-8a6f-719b87579c8a.png)
+
+# Tecnologias utilizadas:
+
+# Front-end
+
+-HTML
+
+-CSS
+
+-JS
+
+-BOOSTRAP
+
+# Autor
+
+Wallace de Matos Pereira
+
+Linkedin: https://www.linkedin.com/in/wallacedematos/
