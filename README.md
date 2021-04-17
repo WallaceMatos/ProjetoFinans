@@ -6,7 +6,7 @@
 # Sobre o projeto
 
 Desenvolvi o projeto no curso de desenvolver web fullstack, realizado na udemy, pelo instrutor Jamilton Damasceno. Site de finanças, crédito pessoal. Interface profissional e responsiva.
-Linguagens utilizadas: HTML, CSS e BOOTSTRAP.
+
 
 # Layout Web
 
